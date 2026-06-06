@@ -34,5 +34,5 @@ Se ≥ 7: aprovado. 5 a 6.9: recuperação. <5: reprovado.
 secreto, informando um número. O algoritmo sempre deverá solicitar que o número seja informado e
 terminará sua execução quando o usuário acertar.
 
-13)Faça um algoritmo que deverá realizar soma de números até que um número negativo seja
+13) Faça um algoritmo que deverá realizar soma de números até que um número negativo seja
 informado.
