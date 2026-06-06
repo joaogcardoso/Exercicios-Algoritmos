@@ -1,6 +1,4 @@
 # Exercicios-Algoritmos
-LISTA DE EXERCÍCIOS - Prof. Hélvio Jeronimo Junior
-
 1) Faça um algoritmo que leia o raio de um círculo, calcule a sua área e informe o resultado com uma
 mensagem.
 2) Faça um algoritmo que leia um número, informe o número lido e, em seguida, informe se o número é
